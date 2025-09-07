@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising 5th year PhD student at MIT Operations Research Center, and I am fortunate to be advised by [Prof. Patrick Jaillet](https://web.mit.edu/jaillet/www/). I am broadly interested in optimization, with a focus on developing (communication, oracle, memory, etc.) efficient algorithms for large scale problems and for sequential decision making. 
+I am a 5th year PhD student at MIT Operations Research Center, and I am fortunate to be advised by [Prof. Patrick Jaillet](https://web.mit.edu/jaillet/www/). I am broadly interested in optimization, with a focus on developing (communication, oracle, memory, etc.) efficient algorithms for large scale problems and for sequential decision making. 
 
 Previously, I graduated Summa Cum Laude from Columbia University in 2021 with a B.S. degree in Applied Math.
 
@@ -58,4 +58,4 @@ Services
 Reviewer: AISTATS (2025), ALT (2024, 2025), NeurIPS (2024, 2025), ICLR (2025)
 
 <br>
-*Last update: August 2025*
+*Last update: September 2025*
